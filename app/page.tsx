@@ -1,0 +1,24 @@
+import AnnualPlanner from "@/components/home/annualplanner"
+import Classes from "@/components/home/classes"
+import Hero from "@/components/home/Herosection"
+import PvmProvides from "@/components/home/pvmprovides"
+import InfoGridSection from "@/components/home/about"
+import StudentAchievements from "@/components/home/student"
+
+function page() {
+  return (
+    <>
+    <Hero/>  
+    <InfoGridSection/>
+    <AnnualPlanner/>
+    <StudentAchievements/>
+    <Classes/>
+    <PvmProvides/>
+    
+    </>
+    
+
+  )
+}
+
+export default page
