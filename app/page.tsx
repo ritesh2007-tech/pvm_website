@@ -16,7 +16,6 @@ function page() {
     <Classes/>
     <PvmProvides/>
     <FAQSection/>
-    
     </>
     
 

@@ -18,27 +18,27 @@ const comfortaa = Comfortaa({
 
 const achievements = [
   {
-    image: "/images/achievements/sa6.JPEG",
+    image: "/images/achievements/sa6.jpeg",
     title: "A Moment to Celebrate",
   },
   {
-    image: "/images/achievements/sa2.JPEG",
+    image: "/images/achievements/sa2.jpeg",
     title: "Shining on the Stage",
   },
   {
-    image: "/images/achievements/sa3.JPEG",
+    image: "/images/achievements/sa3.jpeg",
     title: "Celebrating Excellence",
   },
   {
-    image: "/images/achievements/sa4.JPEG",
+    image: "/images/achievements/sa4.jpeg",
     title: "Learning Beyond the Classroom",
   },
   {
-    image: "/images/achievements/sa5.JPEG",
+    image: "/images/achievements/sa5.jpeg",
     title: "Proud Moments",
   },
   {
-    image: "/images/achievements/sa1.JPEG",
+    image: "/images/achievements/sa1.jpeg",
     title: "Growing Together",
   },
 ];

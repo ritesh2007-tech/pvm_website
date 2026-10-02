@@ -3,8 +3,8 @@
 export default function MandatoryDisclosureHero() {
   return (
     <section
-      className="relative overflow-hidden"
-      style={{ background: "#fa08083c", minHeight: "52vh" }}
+      className="relative overflow-hidden bg-white"
+      style={{ minHeight: "52vh" }}
     >
       {/* Background grid lines */}
       <div
@@ -24,7 +24,7 @@ export default function MandatoryDisclosureHero() {
           fontSize: "clamp(120px, 22vw, 320px)",
           fontWeight: 900,
           color: "transparent",
-          WebkitTextStroke: "1.5px rgba(255,255,255,0.06)",
+       
           lineHeight: 0.85,
           letterSpacing: "-0.04em",
           transform: "translateX(4%)",
@@ -39,11 +39,10 @@ export default function MandatoryDisclosureHero() {
 
         {/* Title */}
         <h1
-          className="font-black leading-none"
+          className="font-black leading-none text-black"
           style={{
             fontFamily: "var(--font-sora, 'comfortaa', sans-serif)",
             fontSize: "clamp(2.4rem, 6.5vw, 5.5rem)",
-            color: "#ffffff",
             letterSpacing: "-0.03em",
             maxWidth: "16ch",
           }}
@@ -61,16 +60,16 @@ export default function MandatoryDisclosureHero() {
 
         {/* Sub-copy */}
         <p
-          className="max-w-md leading-relaxed"
+          className="max-w-md leading-relaxed text-gray-500"
           style={{
             fontFamily: "var(--font-comfortaa, 'Comfortaa', cursive)",
             fontSize: "0.95rem",
-            color: "rgba(255,255,255,0.55)",
+           
           }}
         >
           As required under CBSE Affiliation By-Laws. All information is self-attested
           by the Chairman / Manager / Secretary and Principal of{" "}
-          <span style={{ color: "rgba(255,255,255,0.85)" }}>Prasan Vidya Mandir</span>,
+          <span className="text-black">Prasan Vidya Mandir</span>,
           Mamandur, Tamil Nadu.
         </p>
 
