@@ -51,10 +51,6 @@ const NAV_LINKS: NavLink[] = [
     href: "/VocationalEducation",
   },
   {
-    label: "Co-Curricular",
-    href: "/CoCurricular",
-  },
-  {
     label: "Extra Curricular & Sports Coaching",
     href: "/ECS",
   },
