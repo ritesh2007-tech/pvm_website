@@ -79,38 +79,31 @@ export default function Footer() {
               className={`${comfortaa.className} flex flex-col gap-4 text-black text-base`}
             >
               <a
-                href="#"
+                href="/"
                 className="underline underline-offset-4 hover:text-black/60 transition"
               >
                 <span className="text-[20px]">⤷</span> Home
               </a>
 
               <a
-                href="#"
+                href="/AboutPVM"
                 className="underline underline-offset-4 hover:text-black/60 transition"
               >
-                <span className="text-[20px]">⤷</span> About
+                <span className="text-[20px]">⤷</span> About PVM
               </a>
 
               <a
-                href="#"
+                href="/Curriculum"
                 className="underline underline-offset-4 hover:text-black/60 transition"
               >
-                <span className="text-[20px]">⤷</span> Academics
+                <span className="text-[20px]">⤷</span> Curriculum
               </a>
 
               <a
-                href="#"
+                href="/Contact"
                 className="underline underline-offset-4 hover:text-black/60 transition"
               >
-                <span className="text-[20px]">⤷</span> Admissions
-              </a>
-
-              <a
-                href="#"
-                className="underline underline-offset-4 hover:text-black/60 transition"
-              >
-                <span className="text-[20px]">⤷</span> Contact
+                <span className="text-[20px]">⤷</span> Contact Us
               </a>
             </div>
           </div>
@@ -214,9 +207,8 @@ export default function Footer() {
 
         {/* Bottom Copyright */}
         <div
-          className={`${comfortaa.className} mt-16 w-full border-t border-black/10 pt-6 text-center text-sm text-black/50`}
+          className={`${comfortaa.className} mt-16 w-full border-t border-black/10 pt-10 text-center text-sm text-black/50`}
         >
-          Designed by Ritesh and Rishanth <br />
           © 2026 Prasan Vidya Mandir. All rights reserved.
         </div>      </div>
     </footer>

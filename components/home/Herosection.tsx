@@ -86,7 +86,7 @@ export default function HeroSection() {
           </a>
 
           <Link
-            href="/SchoolDetails"
+            href="/mandatory-public-disclosure"
             className={`${montserrat.className} inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 text-[14px] md:text-sm font-medium text-black transition-transform active:scale-95 md:hover:scale-105`}
           >
             Mandatory Disclosure

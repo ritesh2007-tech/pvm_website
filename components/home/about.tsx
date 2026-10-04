@@ -193,7 +193,7 @@ export default function InfoGridSection() {
                 <button
                   type="button"
                   onClick={() => setCertificateOpen(true)}
-                  className="mt-6 text-sm font-medium text-neutral-900 underline decoration-[#7A2E2E]/60 decoration-2 underline-offset-4 transition hover:decoration-[#7A2E2E]"
+                  className="mt-6 text-sm font-medium text-neutral-900 underline decoration-[#7A2E2E]/60 decoration-2 underline-offset-4 transition hover:decoration-[#7A2E2E] cursor-pointer"
                 >
                   View the NABET certificate
                 </button>

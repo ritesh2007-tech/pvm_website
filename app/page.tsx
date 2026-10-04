@@ -4,6 +4,7 @@ import Hero from "@/components/home/Herosection"
 import PvmProvides from "@/components/home/pvmprovides"
 import InfoGridSection from "@/components/home/about"
 import StudentAchievements from "@/components/home/student"
+import FAQSection from "@/components/contact/faq"
 
 function page() {
   return (
@@ -14,7 +15,7 @@ function page() {
     <StudentAchievements/>
     <Classes/>
     <PvmProvides/>
-    
+    <FAQSection/>
     </>
     
 
