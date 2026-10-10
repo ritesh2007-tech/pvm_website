@@ -31,7 +31,7 @@ export default function HeroSection() {
         >
           <source src="/videos/club.mp4" type="video/mp4" />
         </video>
-
+    <div className="absolute inset-0 bg-black/10"></div>
         {/* Content - Bottom Left */}
         <div className="relative z-10 flex h-full items-end">
           <div className="max-w-3xl px-6 pb-8 text-left sm:px-10 sm:pb-12 md:px-14 md:pb-14 lg:px-16 lg:pb-16">

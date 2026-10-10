@@ -169,7 +169,7 @@ export default function Footer() {
             <div className="flex items-center gap-3">
 
               <a
-                href="#"
+                href="https://www.instagram.com/prasanvidyamandir?obrf=MTFwdzY0cjhyYzBhdg=="
                 aria-label="Instagram"
                 className="p-3 rounded-full hover:bg-black hover:text-white transition text-[25px]"
               >
@@ -177,7 +177,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=100090942145355&rdid=BXpePUStlKDABgao&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FTYv4ah1W%2F#"
                 aria-label="Facebook"
                 className="p-3 rounded-full hover:bg-black hover:text-white transition text-[25px]"
               >
@@ -185,7 +185,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="#"
+                href="https://www.linkedin.com/company/pvmandir/"
                 aria-label="LinkedIn"
                 className="p-3 rounded-full hover:bg-black hover:text-white transition text-[25px]"
               >
@@ -193,7 +193,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="#"
+                href="https://youtube.com/@prasanvidyamandir?si=6zt6UwQxkvmh44kY"
                 aria-label="YouTube"
                 className="p-3 rounded-full hover:bg-black hover:text-white transition text-[25px]"
               >
