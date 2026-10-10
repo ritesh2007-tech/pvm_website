@@ -81,7 +81,7 @@ const SKILL_PROGRAMMES: SkillProgramme[] = [
     className: "NCC",
     description:
       "Guided by the 3 (TN) Battalion Army Wing, the programme shapes the students through unity and discipline.",
-    bgImage: "/images/pattam.JPG",
+    bgImage: "/images/ncc.jpeg",
   },
 ];
 

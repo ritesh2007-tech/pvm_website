@@ -44,8 +44,7 @@ export default function HeroSection() {
             <p
               className="mt-4 max-w-2xl font-[family-name:var(--font-comfortaa)] text-sm leading-relaxed text-white/80 sm:text-base md:mt-6 md:text-lg"
             >
-              Students participate in various sports activities that promote
-              teamwork and discipline.
+              PVM is an affiliated school to CBSE and follows NCERT Syllabus. 
             </p>
           </div>
         </div>

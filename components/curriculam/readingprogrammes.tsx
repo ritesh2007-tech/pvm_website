@@ -92,7 +92,7 @@ export default function ReadingProgramCards() {
       {/* Main Title */}
       <div className="mb-12 text-center">
   <h1
-    className={`${spaceGrotesk.className} text-4xl font-medium tracking-tight text-black sm:text-5xl md:text-6xl lg:text-7xl`}
+    className={`${spaceGrotesk.className} text-4xl font-light tracking-[-3px] text-black sm:text-5xl md:text-6xl lg:text-5xl`}
   >
     READING PROGRAMS{" "}
     <span className="relative inline-block overflow-hidden align-bottom">
