@@ -44,8 +44,7 @@ export default function HeroSection() {
             <p
               className="mt-4 max-w-2xl font-[family-name:var(--font-comfortaa)] text-sm leading-relaxed text-white/80 sm:text-base md:mt-6 md:text-lg"
             >
-              Students participate in various sports activities that promote
-              teamwork and discipline.
+              Minds and Hands come together to make the learning more effective and long lasting 
             </p>
           </div>
         </div>

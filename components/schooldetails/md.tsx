@@ -50,10 +50,10 @@ const sections: TableSection[] = [
       { "Sl. No.": 3, "Document / Information": "COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT", File: { name: "NOC", url: "/documents/NOC.pdf" } },
       { "Sl. No.": 4, "Document / Information": "COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND IT’S RENEWAL IF APPLICABLE", File: { name: "Recognition Copy (valid till 2028)", url: "/documents/Recognition copy _2028_Scannned.pdf" } },
       { "Sl. No.": 5, "Document / Information": "COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE", File: { name: "Form ABC (renewed till 2028)", url: "/documents/Form ABC_ Renewed till 2028.pdf" } },
-      { "Sl. No.": 6, "Document / Information": "Valid Fire Safety Certificate", File: { name: "Fire Certificate (renewed 2025–28)", url: "/documents/fire-safety.pdf" } },
+      { "Sl. No.": 6, "Document / Information": "Valid Fire Safety Certificate", File: { name: "Fire Certificate (renewed 2025–28)", url: "/documents/Fire certificate Renewed_25-28.pdf" } },
       { "Sl. No.": 7, "Document / Information": "COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY SCHOOL", File: { name: "SARAS Affiliation Grant", url: "/documents/Letter SARAS  Affiliation grant 4.0 (2).pdf" } },
       { "Sl. No.": 8, "Document / Information": "COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES", File: { name: "Sanitary Certificate 2025", url: "/documents/Sanitary certificate  _ Appx VIII _CBSE.pdf" } },
-      { "Sl. No.": 9, "Document / Information": "Form D", File: { name: "Form D (valid till 2028)", url: "/documents/form-d.pdf" } },
+      { "Sl. No.": 9, "Document / Information": "Form D", File: { name: "Form D (valid till 2028)", url: "/documents/FORM D _ 2028.pdf" } },
     ],
   },
   {
@@ -143,7 +143,7 @@ const sections: TableSection[] = [
     color: "#F0F9FF",
     columns: ["Sl. No.", "Document / Information", "Upload"],
     rows: [
-      { "Sl. No.": 1, "Document / Information": "Fee Structure of the School", Upload: { name: "Fees 26-27", url: "/documents/fee-structure-26-27.pdf" } },
+      { "Sl. No.": 1, "Document / Information": "Certificate of land", Upload: { name: "Certificate of land", url: "/documents/Certificate of land.pdf" } },
     ],
   },
 ];
