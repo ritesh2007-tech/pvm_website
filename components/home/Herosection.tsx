@@ -78,7 +78,7 @@ export default function HeroSection() {
         {/* Buttons */}
         <div className="mt-4 flex flex-wrap items-center justify-center gap-4">
           <a
-            href=""
+            href="https://app.schoolcanvas.com/AdmissionQE/registrationPVM&FormId=MTE3OQ=="
             className={`${montserrat.className} inline-flex items-center gap-2 rounded-full bg-orange-300 px-6 py-3 text-sm font-medium text-black transition-transform active:scale-95 md:hover:scale-105`}
           >
             Apply for Admission
